@@ -1,2 +1,2 @@
 # python-script-aws
-Python script for AWS.
+Python scripts for AWS.
