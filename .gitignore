@@ -4,3 +4,4 @@
 Pipfile.lock
 */__pycache__
 __init__.pyc
+/.vscode
