@@ -1,0 +1,6 @@
+/build
+/dist
+/webotron_*
+Pipfile.lock
+*/__pycache__
+__init__.pyc
